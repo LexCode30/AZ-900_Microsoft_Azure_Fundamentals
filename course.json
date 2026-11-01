@@ -1,0 +1,569 @@
+{
+  "name": "AZ-900 Microsoft Azure Fundamentals",
+  "slug": "AZ-900_Microsoft_Azure_Fundamentals",
+  "url": "https://LexCode30.github.io/AZ-900_Microsoft_Azure_Fundamentals/",
+  "category": "cloud",
+  "generator": "7.0",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Course",
+      "page": "s1.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction",
+          "id": "1rwRWAEM_SydjLv5PiXf3rZCONIAL1s9g",
+          "anchor": "v-1rwRWAEM_SydjLv5PiXf3rZCONIAL1s9g",
+          "href": "s1.html#v-1rwRWAEM_SydjLv5PiXf3rZCONIAL1s9g"
+        },
+        {
+          "number": 2,
+          "title": "LIVE DEMO A quick look into Azure",
+          "id": "1Trz5dBvK2hd0WBzQemGqePYiOO9LtoA4",
+          "anchor": "v-1Trz5dBvK2hd0WBzQemGqePYiOO9LtoA4",
+          "href": "s1.html#v-1Trz5dBvK2hd0WBzQemGqePYiOO9LtoA4"
+        },
+        {
+          "number": 3,
+          "title": "AZ900 Exam Requirements",
+          "id": "1ATwMbdHDUMhRIheYY_8scXxHIMfmb6Fg",
+          "anchor": "v-1ATwMbdHDUMhRIheYY_8scXxHIMfmb6Fg",
+          "href": "s1.html#v-1ATwMbdHDUMhRIheYY_8scXxHIMfmb6Fg"
+        },
+        {
+          "number": 4,
+          "title": "Udemy Video Player",
+          "id": "19kFDcc8vgeRpZ6rW2Yk0IWDlW_Sc23GA",
+          "anchor": "v-19kFDcc8vgeRpZ6rW2Yk0IWDlW_Sc23GA",
+          "href": "s1.html#v-19kFDcc8vgeRpZ6rW2Yk0IWDlW_Sc23GA"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Describe Cloud Computing",
+      "page": "s2.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "What is Cloud Computing",
+          "id": "119lY7KNv0ce_1aeRQcJ5yUfsTnNkNLtA",
+          "anchor": "v-119lY7KNv0ce_1aeRQcJ5yUfsTnNkNLtA",
+          "href": "s2.html#v-119lY7KNv0ce_1aeRQcJ5yUfsTnNkNLtA"
+        },
+        {
+          "number": 2,
+          "title": "Shared Responsibility Model",
+          "id": "1AwCqWHS3wpNRYMUeRPhquMy_8_mWWsYJ",
+          "anchor": "v-1AwCqWHS3wpNRYMUeRPhquMy_8_mWWsYJ",
+          "href": "s2.html#v-1AwCqWHS3wpNRYMUeRPhquMy_8_mWWsYJ"
+        },
+        {
+          "number": 3,
+          "title": "Public Cloud Private Cloud Hybrid Cloud",
+          "id": "1Vh0wrp539rtCmkJbvlrs3a1o7iTpGC3F",
+          "anchor": "v-1Vh0wrp539rtCmkJbvlrs3a1o7iTpGC3F",
+          "href": "s2.html#v-1Vh0wrp539rtCmkJbvlrs3a1o7iTpGC3F"
+        },
+        {
+          "number": 4,
+          "title": "Cloud Pricing",
+          "id": "169Dm9ojKT1JgxvuJcqeizTjkE_1HmA5N",
+          "anchor": "v-169Dm9ojKT1JgxvuJcqeizTjkE_1HmA5N",
+          "href": "s2.html#v-169Dm9ojKT1JgxvuJcqeizTjkE_1HmA5N"
+        },
+        {
+          "number": 5,
+          "title": "LIVE DEMO Pricing Calculator",
+          "id": "1AeA0gGA12EZZngED5foIgko3rMMgR-eP",
+          "anchor": "v-1AeA0gGA12EZZngED5foIgko3rMMgR-eP",
+          "href": "s2.html#v-1AeA0gGA12EZZngED5foIgko3rMMgR-eP"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Benefits of Cloud Computing",
+      "page": "s3.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "High Availability Benefit of Cloud Computing",
+          "id": "1mBm_6tkeY-1YaPGorcKT1Y7gYNzS8iCM",
+          "anchor": "v-1mBm_6tkeY-1YaPGorcKT1Y7gYNzS8iCM",
+          "href": "s3.html#v-1mBm_6tkeY-1YaPGorcKT1Y7gYNzS8iCM"
+        },
+        {
+          "number": 2,
+          "title": "Scalability Benefit of Cloud Computing",
+          "id": "1pCfsR_j7zwElaDKU4DXFtEfZ83mdDpNm",
+          "anchor": "v-1pCfsR_j7zwElaDKU4DXFtEfZ83mdDpNm",
+          "href": "s3.html#v-1pCfsR_j7zwElaDKU4DXFtEfZ83mdDpNm"
+        },
+        {
+          "number": 3,
+          "title": "Elasticity Benefit of Cloud Computing",
+          "id": "12ty8_MwfKl0ahuLTzDwzs7o2T5_0wkEC",
+          "anchor": "v-12ty8_MwfKl0ahuLTzDwzs7o2T5_0wkEC",
+          "href": "s3.html#v-12ty8_MwfKl0ahuLTzDwzs7o2T5_0wkEC"
+        },
+        {
+          "number": 4,
+          "title": "Reliability Benefit of Cloud Computing",
+          "id": "1-8QK0KRsi-h55GgPEPBqpo1IhyViYGlr",
+          "anchor": "v-1-8QK0KRsi-h55GgPEPBqpo1IhyViYGlr",
+          "href": "s3.html#v-1-8QK0KRsi-h55GgPEPBqpo1IhyViYGlr"
+        },
+        {
+          "number": 5,
+          "title": "Predictability Benefit of Cloud Computing",
+          "id": "1mjQbW4rWLJilWlnCB_WxyJy3tq30nIuR",
+          "anchor": "v-1mjQbW4rWLJilWlnCB_WxyJy3tq30nIuR",
+          "href": "s3.html#v-1mjQbW4rWLJilWlnCB_WxyJy3tq30nIuR"
+        },
+        {
+          "number": 6,
+          "title": "Security Benefit of Cloud Computing",
+          "id": "1gqcOvKFVKEdbD1nKx1BgoCeDL0wbZImZ",
+          "anchor": "v-1gqcOvKFVKEdbD1nKx1BgoCeDL0wbZImZ",
+          "href": "s3.html#v-1gqcOvKFVKEdbD1nKx1BgoCeDL0wbZImZ"
+        },
+        {
+          "number": 7,
+          "title": "Governance Benefit of Cloud Computing",
+          "id": "12PdDuZlqekdnIrjroulgQtDrozYanRPx",
+          "anchor": "v-12PdDuZlqekdnIrjroulgQtDrozYanRPx",
+          "href": "s3.html#v-12PdDuZlqekdnIrjroulgQtDrozYanRPx"
+        },
+        {
+          "number": 8,
+          "title": "Managability Benefit of Cloud Computing",
+          "id": "1pw2vQeGGqtMlGU3yUvatkfccj8WYNBLP",
+          "anchor": "v-1pw2vQeGGqtMlGU3yUvatkfccj8WYNBLP",
+          "href": "s3.html#v-1pw2vQeGGqtMlGU3yUvatkfccj8WYNBLP"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Cloud Service Types",
+      "page": "s4.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Cloud Service Types",
+          "id": "16gPb9dsSlmCWP6SCGdeJj4XpKpakO05Z",
+          "anchor": "v-16gPb9dsSlmCWP6SCGdeJj4XpKpakO05Z",
+          "href": "s4.html#v-16gPb9dsSlmCWP6SCGdeJj4XpKpakO05Z"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Core Architectural Components of Azure",
+      "page": "s5.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Regions Region Pairs Sovereign Regions",
+          "id": "1ouUt8-YiZ0AzAj--yMU8e8iGJBnItypY",
+          "anchor": "v-1ouUt8-YiZ0AzAj--yMU8e8iGJBnItypY",
+          "href": "s5.html#v-1ouUt8-YiZ0AzAj--yMU8e8iGJBnItypY"
+        },
+        {
+          "number": 2,
+          "title": "Availability Zones and Data Centers",
+          "id": "1ivGOt1pUfsyfsF5vGl81HuCXv-8UTd--",
+          "anchor": "v-1ivGOt1pUfsyfsF5vGl81HuCXv-8UTd--",
+          "href": "s5.html#v-1ivGOt1pUfsyfsF5vGl81HuCXv-8UTd--"
+        },
+        {
+          "number": 3,
+          "title": "Resources and Resource Groups",
+          "id": "1Y36MROfrW08XrWGO7BPpA_sR0-eGmL6a",
+          "anchor": "v-1Y36MROfrW08XrWGO7BPpA_sR0-eGmL6a",
+          "href": "s5.html#v-1Y36MROfrW08XrWGO7BPpA_sR0-eGmL6a"
+        },
+        {
+          "number": 4,
+          "title": "Subscriptions",
+          "id": "1A6w-v8ODSirMgjvHAhXb6F7Q4VVqlWfE",
+          "anchor": "v-1A6w-v8ODSirMgjvHAhXb6F7Q4VVqlWfE",
+          "href": "s5.html#v-1A6w-v8ODSirMgjvHAhXb6F7Q4VVqlWfE"
+        },
+        {
+          "number": 5,
+          "title": "Management Groups",
+          "id": "19Roi3Fi3UamzYOMGFM6DJAGawO4y6Ziv",
+          "anchor": "v-19Roi3Fi3UamzYOMGFM6DJAGawO4y6Ziv",
+          "href": "s5.html#v-19Roi3Fi3UamzYOMGFM6DJAGawO4y6Ziv"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Azure Compute and Networking Services",
+      "page": "s6.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Azure Compute services",
+          "id": "1Qp9WtWN61r5vpssAhsxJ6MVkCM02NyN6",
+          "anchor": "v-1Qp9WtWN61r5vpssAhsxJ6MVkCM02NyN6",
+          "href": "s6.html#v-1Qp9WtWN61r5vpssAhsxJ6MVkCM02NyN6"
+        },
+        {
+          "number": 2,
+          "title": "Azure Networking services",
+          "id": "19bK3Lx0us6b74c6PKfr6IScfFaeNLBYg",
+          "anchor": "v-19bK3Lx0us6b74c6PKfr6IScfFaeNLBYg",
+          "href": "s6.html#v-19bK3Lx0us6b74c6PKfr6IScfFaeNLBYg"
+        },
+        {
+          "number": 3,
+          "title": "Network Peering",
+          "id": "1rbjcijUQSHnBJr8fiyJTZnMMA5qzSv6H",
+          "anchor": "v-1rbjcijUQSHnBJr8fiyJTZnMMA5qzSv6H",
+          "href": "s6.html#v-1rbjcijUQSHnBJr8fiyJTZnMMA5qzSv6H"
+        },
+        {
+          "number": 4,
+          "title": "Public and Private Endpoints",
+          "id": "1M1rnS5ns_gKq4tcP0xRgy-Od90bgbpTs",
+          "anchor": "v-1M1rnS5ns_gKq4tcP0xRgy-Od90bgbpTs",
+          "href": "s6.html#v-1M1rnS5ns_gKq4tcP0xRgy-Od90bgbpTs"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Azure Compute Demo",
+      "page": "s7.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "LIVE DEMO Creating a Virtual Machine VM",
+          "id": "1hptxlfygpVijphajCPK9fylCUEhkAdWp",
+          "anchor": "v-1hptxlfygpVijphajCPK9fylCUEhkAdWp",
+          "href": "s7.html#v-1hptxlfygpVijphajCPK9fylCUEhkAdWp"
+        },
+        {
+          "number": 2,
+          "title": "LIVE DEMO Connecting to a Virtual Machine",
+          "id": "1VYdHs9DYJFLh5bc2Hfr8k-iPbhJrG_Tu",
+          "anchor": "v-1VYdHs9DYJFLh5bc2Hfr8k-iPbhJrG_Tu",
+          "href": "s7.html#v-1VYdHs9DYJFLh5bc2Hfr8k-iPbhJrG_Tu"
+        },
+        {
+          "number": 3,
+          "title": "LIVE DEMO Creating Azure App Services Web Apps",
+          "id": "15ucUWfbfG-RvWSHG3QL2Uk7pqIQPoEuo",
+          "anchor": "v-15ucUWfbfG-RvWSHG3QL2Uk7pqIQPoEuo",
+          "href": "s7.html#v-15ucUWfbfG-RvWSHG3QL2Uk7pqIQPoEuo"
+        },
+        {
+          "number": 4,
+          "title": "LIVE DEMO Azure App Services In Action",
+          "id": "1EMKg7ZSvX1Vsmlhzw3JqQIKFUhXKJMWG",
+          "anchor": "v-1EMKg7ZSvX1Vsmlhzw3JqQIKFUhXKJMWG",
+          "href": "s7.html#v-1EMKg7ZSvX1Vsmlhzw3JqQIKFUhXKJMWG"
+        },
+        {
+          "number": 5,
+          "title": "LIVE DEMO Creating Azure Functions",
+          "id": "1yFiWlGhtwDg8aO38rOpYiDimyFvoFsQF",
+          "anchor": "v-1yFiWlGhtwDg8aO38rOpYiDimyFvoFsQF",
+          "href": "s7.html#v-1yFiWlGhtwDg8aO38rOpYiDimyFvoFsQF"
+        },
+        {
+          "number": 6,
+          "title": "LIVE DEMO Kubernetes and Azure Container Instances",
+          "id": "1XszB5zg6xjxEjdGZA57AX1vjXsKyXGBX",
+          "anchor": "v-1XszB5zg6xjxEjdGZA57AX1vjXsKyXGBX",
+          "href": "s7.html#v-1XszB5zg6xjxEjdGZA57AX1vjXsKyXGBX"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Azure Storage",
+      "page": "s8.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Overview of Azure Storage",
+          "id": "1nLjLoFZ3RJ4TxNMtsal66nqf61MeEOz-",
+          "anchor": "v-1nLjLoFZ3RJ4TxNMtsal66nqf61MeEOz-",
+          "href": "s8.html#v-1nLjLoFZ3RJ4TxNMtsal66nqf61MeEOz-"
+        },
+        {
+          "number": 2,
+          "title": "LIVE DEMO Create an Unmanaged Storage Account",
+          "id": "1ajdAzr1jhehEkyspIEZ5EGCdekZX9p-j",
+          "anchor": "v-1ajdAzr1jhehEkyspIEZ5EGCdekZX9p-j",
+          "href": "s8.html#v-1ajdAzr1jhehEkyspIEZ5EGCdekZX9p-j"
+        },
+        {
+          "number": 3,
+          "title": "LIVE DEMO Upload Files to a Storage Account",
+          "id": "1MddEuLnR8EW0O1HPZemVwvl_PoTVn0wr",
+          "anchor": "v-1MddEuLnR8EW0O1HPZemVwvl_PoTVn0wr",
+          "href": "s8.html#v-1MddEuLnR8EW0O1HPZemVwvl_PoTVn0wr"
+        },
+        {
+          "number": 4,
+          "title": "LIVE DEMO Azure Storage Explorer Storage Browser",
+          "id": "1pUeuWoIB1zgzL0fy6MEd6QrFX7kAqg9v",
+          "anchor": "v-1pUeuWoIB1zgzL0fy6MEd6QrFX7kAqg9v",
+          "href": "s8.html#v-1pUeuWoIB1zgzL0fy6MEd6QrFX7kAqg9v"
+        },
+        {
+          "number": 5,
+          "title": "AZCOPY",
+          "id": "1U0CjJXYSjT21gBT_jfu4T8lohrACY-Al",
+          "anchor": "v-1U0CjJXYSjT21gBT_jfu4T8lohrACY-Al",
+          "href": "s8.html#v-1U0CjJXYSjT21gBT_jfu4T8lohrACY-Al"
+        },
+        {
+          "number": 6,
+          "title": "Azure File Sync",
+          "id": "1k-uIQnp9GJxYwDd-L6jAN90mLT20_3ME",
+          "anchor": "v-1k-uIQnp9GJxYwDd-L6jAN90mLT20_3ME",
+          "href": "s8.html#v-1k-uIQnp9GJxYwDd-L6jAN90mLT20_3ME"
+        },
+        {
+          "number": 7,
+          "title": "Azure Migrate",
+          "id": "17JWzF1VqwCI5E3lYOwV0UH0d35t5LdEA",
+          "anchor": "v-17JWzF1VqwCI5E3lYOwV0UH0d35t5LdEA",
+          "href": "s8.html#v-17JWzF1VqwCI5E3lYOwV0UH0d35t5LdEA"
+        },
+        {
+          "number": 8,
+          "title": "Azure Data Box",
+          "id": "1m1Bky3IP0CSb6J6D3HxXGdfOOQh3rNuX",
+          "anchor": "v-1m1Bky3IP0CSb6J6D3HxXGdfOOQh3rNuX",
+          "href": "s8.html#v-1m1Bky3IP0CSb6J6D3HxXGdfOOQh3rNuX"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Identity Access and Security",
+      "page": "s9.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Identity and Azure Active Directory",
+          "id": "1p5dfgCrQzBF3whNcAzjszxobEmiZTmTr",
+          "anchor": "v-1p5dfgCrQzBF3whNcAzjszxobEmiZTmTr",
+          "href": "s9.html#v-1p5dfgCrQzBF3whNcAzjszxobEmiZTmTr"
+        },
+        {
+          "number": 2,
+          "title": "Benefits of Azure Active Directory Azure AD",
+          "id": "1SS0NWKBZMUR4b_AXNepaTBZf_dxnENso",
+          "anchor": "v-1SS0NWKBZMUR4b_AXNepaTBZf_dxnENso",
+          "href": "s9.html#v-1SS0NWKBZMUR4b_AXNepaTBZf_dxnENso"
+        },
+        {
+          "number": 3,
+          "title": "Authenication vs Authorization",
+          "id": "1K18lu7yD294XqYGCVZvUdC9Qt3O9xhaz",
+          "anchor": "v-1K18lu7yD294XqYGCVZvUdC9Qt3O9xhaz",
+          "href": "s9.html#v-1K18lu7yD294XqYGCVZvUdC9Qt3O9xhaz"
+        },
+        {
+          "number": 4,
+          "title": "Azure AD Conditional Access",
+          "id": "1l46Eqv5swt8WxHmNJwQCAIkPWjBElsou",
+          "anchor": "v-1l46Eqv5swt8WxHmNJwQCAIkPWjBElsou",
+          "href": "s9.html#v-1l46Eqv5swt8WxHmNJwQCAIkPWjBElsou"
+        },
+        {
+          "number": 5,
+          "title": "MultiFactor Authentication MFA or 2FA",
+          "id": "1tXJ_lut-r6reIPKHV7BbamhwjbZpeQP9",
+          "anchor": "v-1tXJ_lut-r6reIPKHV7BbamhwjbZpeQP9",
+          "href": "s9.html#v-1tXJ_lut-r6reIPKHV7BbamhwjbZpeQP9"
+        },
+        {
+          "number": 6,
+          "title": "Passwordless",
+          "id": "1cKubeEKbFhhWSC4rPt-_AFxcE-ZwotOb",
+          "anchor": "v-1cKubeEKbFhhWSC4rPt-_AFxcE-ZwotOb",
+          "href": "s9.html#v-1cKubeEKbFhhWSC4rPt-_AFxcE-ZwotOb"
+        },
+        {
+          "number": 7,
+          "title": "RoleBased Access Control RBAC",
+          "id": "1XXAXqRMH3SN2tOdI_DBl9ZD3Mg-NFi5M",
+          "anchor": "v-1XXAXqRMH3SN2tOdI_DBl9ZD3Mg-NFi5M",
+          "href": "s9.html#v-1XXAXqRMH3SN2tOdI_DBl9ZD3Mg-NFi5M"
+        },
+        {
+          "number": 8,
+          "title": "ZeroTrust Model of Security",
+          "id": "12owmtEMjgdgpCMOX0gFmnwxkO7KS4GIs",
+          "anchor": "v-12owmtEMjgdgpCMOX0gFmnwxkO7KS4GIs",
+          "href": "s9.html#v-12owmtEMjgdgpCMOX0gFmnwxkO7KS4GIs"
+        },
+        {
+          "number": 9,
+          "title": "Defense in Depth",
+          "id": "1-8ZnBf9R4UrEeohdIN0jeSr0y_gyEilK",
+          "anchor": "v-1-8ZnBf9R4UrEeohdIN0jeSr0y_gyEilK",
+          "href": "s9.html#v-1-8ZnBf9R4UrEeohdIN0jeSr0y_gyEilK"
+        },
+        {
+          "number": 10,
+          "title": "Microsoft Defender for Cloud",
+          "id": "1ruft8XrnqFLqsVA3wRLbP-RCIRJVH3cy",
+          "anchor": "v-1ruft8XrnqFLqsVA3wRLbP-RCIRJVH3cy",
+          "href": "s9.html#v-1ruft8XrnqFLqsVA3wRLbP-RCIRJVH3cy"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Cost Management in Azure",
+      "page": "s10.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Factors that Affect Cost",
+          "id": "1swa36l7XxKPYeHfprGb33l5HjU7jGZQ9",
+          "anchor": "v-1swa36l7XxKPYeHfprGb33l5HjU7jGZQ9",
+          "href": "s10.html#v-1swa36l7XxKPYeHfprGb33l5HjU7jGZQ9"
+        },
+        {
+          "number": 2,
+          "title": "Azure Pricing Calculator",
+          "id": "1HKrtjrMpi8zETa6VFrs9TJiCaCeAlUw0",
+          "anchor": "v-1HKrtjrMpi8zETa6VFrs9TJiCaCeAlUw0",
+          "href": "s10.html#v-1HKrtjrMpi8zETa6VFrs9TJiCaCeAlUw0"
+        },
+        {
+          "number": 3,
+          "title": "Total Cost of Ownership Calculator",
+          "id": "1152aioC3LpmhtA-HCXh0Q4so3T95yoju",
+          "anchor": "v-1152aioC3LpmhtA-HCXh0Q4so3T95yoju",
+          "href": "s10.html#v-1152aioC3LpmhtA-HCXh0Q4so3T95yoju"
+        },
+        {
+          "number": 4,
+          "title": "Azure Cost Management",
+          "id": "1RbLcMQT-lhJc1QtiFjtfnltb2iL52Y-2",
+          "anchor": "v-1RbLcMQT-lhJc1QtiFjtfnltb2iL52Y-2",
+          "href": "s10.html#v-1RbLcMQT-lhJc1QtiFjtfnltb2iL52Y-2"
+        },
+        {
+          "number": 5,
+          "title": "Resource Tags",
+          "id": "1FFXapTO6se4hzM2aaHulUNxqYd_w6RGi",
+          "anchor": "v-1FFXapTO6se4hzM2aaHulUNxqYd_w6RGi",
+          "href": "s10.html#v-1FFXapTO6se4hzM2aaHulUNxqYd_w6RGi"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Azure Governance and Compliance",
+      "page": "s11.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Azure Governance and Compliance",
+          "id": "1sx3Vi60RBEKhcnuZOrh8UJujLutnzUhN",
+          "anchor": "v-1sx3Vi60RBEKhcnuZOrh8UJujLutnzUhN",
+          "href": "s11.html#v-1sx3Vi60RBEKhcnuZOrh8UJujLutnzUhN"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Tools for Managing and Deploying Azure Resources",
+      "page": "s12.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Azure Portal and Command Line Tools",
+          "id": "1FIGXBqZrEyhpBxQ2ynNQfq-XeSbW58qR",
+          "anchor": "v-1FIGXBqZrEyhpBxQ2ynNQfq-XeSbW58qR",
+          "href": "s12.html#v-1FIGXBqZrEyhpBxQ2ynNQfq-XeSbW58qR"
+        },
+        {
+          "number": 2,
+          "title": "LIVE DEMO Create Resources Using Command Line",
+          "id": "1Fa66COG9sbYTiRm3Y5ooSTQwEyasjyee",
+          "anchor": "v-1Fa66COG9sbYTiRm3Y5ooSTQwEyasjyee",
+          "href": "s12.html#v-1Fa66COG9sbYTiRm3Y5ooSTQwEyasjyee"
+        },
+        {
+          "number": 3,
+          "title": "Azure Arc",
+          "id": "1DR2bQJHtKdnvpqtIzOHLBQKM8H1KtpLX",
+          "anchor": "v-1DR2bQJHtKdnvpqtIzOHLBQKM8H1KtpLX",
+          "href": "s12.html#v-1DR2bQJHtKdnvpqtIzOHLBQKM8H1KtpLX"
+        },
+        {
+          "number": 4,
+          "title": "ARM Templates",
+          "id": "1hU7OFYsxmehWzUgEaaMVEgsa-cMnvvu8",
+          "anchor": "v-1hU7OFYsxmehWzUgEaaMVEgsa-cMnvvu8",
+          "href": "s12.html#v-1hU7OFYsxmehWzUgEaaMVEgsa-cMnvvu8"
+        },
+        {
+          "number": 5,
+          "title": "LIVE DEMO Generate ARM Templates in the Azure Portal",
+          "id": "1KhOIgJ8TSK0AbkeJsb7J_iFbr3iJ8svw",
+          "anchor": "v-1KhOIgJ8TSK0AbkeJsb7J_iFbr3iJ8svw",
+          "href": "s12.html#v-1KhOIgJ8TSK0AbkeJsb7J_iFbr3iJ8svw"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Monitoring Tools",
+      "page": "s13.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Azure Advisor and Azure Service Health",
+          "id": "1cmWzNlO-l8WUxgoWANTPK2AKfidnQO0M",
+          "anchor": "v-1cmWzNlO-l8WUxgoWANTPK2AKfidnQO0M",
+          "href": "s13.html#v-1cmWzNlO-l8WUxgoWANTPK2AKfidnQO0M"
+        },
+        {
+          "number": 2,
+          "title": "Azure Diagnostics Settings",
+          "id": "1Mm2OcM7Fqoby7PPGsZ5dTIsOBYjKj9df",
+          "anchor": "v-1Mm2OcM7Fqoby7PPGsZ5dTIsOBYjKj9df",
+          "href": "s13.html#v-1Mm2OcM7Fqoby7PPGsZ5dTIsOBYjKj9df"
+        },
+        {
+          "number": 3,
+          "title": "Azure Monitor",
+          "id": "1p6QtOiJFcchNhX50n0mEI64vOoLgepKz",
+          "anchor": "v-1p6QtOiJFcchNhX50n0mEI64vOoLgepKz",
+          "href": "s13.html#v-1p6QtOiJFcchNhX50n0mEI64vOoLgepKz"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Course Wrapup",
+      "page": "s14.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Thank You",
+          "id": "1t84bxPpTEF29Ov6vYLoPiGi0huJRZ0Zc",
+          "anchor": "v-1t84bxPpTEF29Ov6vYLoPiGi0huJRZ0Zc",
+          "href": "s14.html#v-1t84bxPpTEF29Ov6vYLoPiGi0huJRZ0Zc"
+        }
+      ]
+    }
+  ]
+}

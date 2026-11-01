@@ -1,0 +1,95 @@
+# AZ-900 Microsoft Azure Fundamentals
+
+1. Course  [s1.html]
+    001. Introduction  ->  https://drive.google.com/file/d/1rwRWAEM_SydjLv5PiXf3rZCONIAL1s9g/preview
+    002. LIVE DEMO A quick look into Azure  ->  https://drive.google.com/file/d/1Trz5dBvK2hd0WBzQemGqePYiOO9LtoA4/preview
+    003. AZ900 Exam Requirements  ->  https://drive.google.com/file/d/1ATwMbdHDUMhRIheYY_8scXxHIMfmb6Fg/preview
+    004. Udemy Video Player  ->  https://drive.google.com/file/d/19kFDcc8vgeRpZ6rW2Yk0IWDlW_Sc23GA/preview
+
+2. Describe Cloud Computing  [s2.html]
+    001. What is Cloud Computing  ->  https://drive.google.com/file/d/119lY7KNv0ce_1aeRQcJ5yUfsTnNkNLtA/preview
+    002. Shared Responsibility Model  ->  https://drive.google.com/file/d/1AwCqWHS3wpNRYMUeRPhquMy_8_mWWsYJ/preview
+    003. Public Cloud Private Cloud Hybrid Cloud  ->  https://drive.google.com/file/d/1Vh0wrp539rtCmkJbvlrs3a1o7iTpGC3F/preview
+    004. Cloud Pricing  ->  https://drive.google.com/file/d/169Dm9ojKT1JgxvuJcqeizTjkE_1HmA5N/preview
+    005. LIVE DEMO Pricing Calculator  ->  https://drive.google.com/file/d/1AeA0gGA12EZZngED5foIgko3rMMgR-eP/preview
+
+3. Benefits of Cloud Computing  [s3.html]
+    001. High Availability Benefit of Cloud Computing  ->  https://drive.google.com/file/d/1mBm_6tkeY-1YaPGorcKT1Y7gYNzS8iCM/preview
+    002. Scalability Benefit of Cloud Computing  ->  https://drive.google.com/file/d/1pCfsR_j7zwElaDKU4DXFtEfZ83mdDpNm/preview
+    003. Elasticity Benefit of Cloud Computing  ->  https://drive.google.com/file/d/12ty8_MwfKl0ahuLTzDwzs7o2T5_0wkEC/preview
+    004. Reliability Benefit of Cloud Computing  ->  https://drive.google.com/file/d/1-8QK0KRsi-h55GgPEPBqpo1IhyViYGlr/preview
+    005. Predictability Benefit of Cloud Computing  ->  https://drive.google.com/file/d/1mjQbW4rWLJilWlnCB_WxyJy3tq30nIuR/preview
+    006. Security Benefit of Cloud Computing  ->  https://drive.google.com/file/d/1gqcOvKFVKEdbD1nKx1BgoCeDL0wbZImZ/preview
+    007. Governance Benefit of Cloud Computing  ->  https://drive.google.com/file/d/12PdDuZlqekdnIrjroulgQtDrozYanRPx/preview
+    008. Managability Benefit of Cloud Computing  ->  https://drive.google.com/file/d/1pw2vQeGGqtMlGU3yUvatkfccj8WYNBLP/preview
+
+4. Cloud Service Types  [s4.html]
+    001. Cloud Service Types  ->  https://drive.google.com/file/d/16gPb9dsSlmCWP6SCGdeJj4XpKpakO05Z/preview
+
+5. Core Architectural Components of Azure  [s5.html]
+    001. Regions Region Pairs Sovereign Regions  ->  https://drive.google.com/file/d/1ouUt8-YiZ0AzAj--yMU8e8iGJBnItypY/preview
+    002. Availability Zones and Data Centers  ->  https://drive.google.com/file/d/1ivGOt1pUfsyfsF5vGl81HuCXv-8UTd--/preview
+    003. Resources and Resource Groups  ->  https://drive.google.com/file/d/1Y36MROfrW08XrWGO7BPpA_sR0-eGmL6a/preview
+    004. Subscriptions  ->  https://drive.google.com/file/d/1A6w-v8ODSirMgjvHAhXb6F7Q4VVqlWfE/preview
+    005. Management Groups  ->  https://drive.google.com/file/d/19Roi3Fi3UamzYOMGFM6DJAGawO4y6Ziv/preview
+
+6. Azure Compute and Networking Services  [s6.html]
+    001. Azure Compute services  ->  https://drive.google.com/file/d/1Qp9WtWN61r5vpssAhsxJ6MVkCM02NyN6/preview
+    002. Azure Networking services  ->  https://drive.google.com/file/d/19bK3Lx0us6b74c6PKfr6IScfFaeNLBYg/preview
+    003. Network Peering  ->  https://drive.google.com/file/d/1rbjcijUQSHnBJr8fiyJTZnMMA5qzSv6H/preview
+    004. Public and Private Endpoints  ->  https://drive.google.com/file/d/1M1rnS5ns_gKq4tcP0xRgy-Od90bgbpTs/preview
+
+7. Azure Compute Demo  [s7.html]
+    001. LIVE DEMO Creating a Virtual Machine VM  ->  https://drive.google.com/file/d/1hptxlfygpVijphajCPK9fylCUEhkAdWp/preview
+    002. LIVE DEMO Connecting to a Virtual Machine  ->  https://drive.google.com/file/d/1VYdHs9DYJFLh5bc2Hfr8k-iPbhJrG_Tu/preview
+    003. LIVE DEMO Creating Azure App Services Web Apps  ->  https://drive.google.com/file/d/15ucUWfbfG-RvWSHG3QL2Uk7pqIQPoEuo/preview
+    004. LIVE DEMO Azure App Services In Action  ->  https://drive.google.com/file/d/1EMKg7ZSvX1Vsmlhzw3JqQIKFUhXKJMWG/preview
+    005. LIVE DEMO Creating Azure Functions  ->  https://drive.google.com/file/d/1yFiWlGhtwDg8aO38rOpYiDimyFvoFsQF/preview
+    006. LIVE DEMO Kubernetes and Azure Container Instances  ->  https://drive.google.com/file/d/1XszB5zg6xjxEjdGZA57AX1vjXsKyXGBX/preview
+
+8. Azure Storage  [s8.html]
+    001. Overview of Azure Storage  ->  https://drive.google.com/file/d/1nLjLoFZ3RJ4TxNMtsal66nqf61MeEOz-/preview
+    002. LIVE DEMO Create an Unmanaged Storage Account  ->  https://drive.google.com/file/d/1ajdAzr1jhehEkyspIEZ5EGCdekZX9p-j/preview
+    003. LIVE DEMO Upload Files to a Storage Account  ->  https://drive.google.com/file/d/1MddEuLnR8EW0O1HPZemVwvl_PoTVn0wr/preview
+    004. LIVE DEMO Azure Storage Explorer Storage Browser  ->  https://drive.google.com/file/d/1pUeuWoIB1zgzL0fy6MEd6QrFX7kAqg9v/preview
+    005. AZCOPY  ->  https://drive.google.com/file/d/1U0CjJXYSjT21gBT_jfu4T8lohrACY-Al/preview
+    006. Azure File Sync  ->  https://drive.google.com/file/d/1k-uIQnp9GJxYwDd-L6jAN90mLT20_3ME/preview
+    007. Azure Migrate  ->  https://drive.google.com/file/d/17JWzF1VqwCI5E3lYOwV0UH0d35t5LdEA/preview
+    008. Azure Data Box  ->  https://drive.google.com/file/d/1m1Bky3IP0CSb6J6D3HxXGdfOOQh3rNuX/preview
+
+9. Identity Access and Security  [s9.html]
+    001. Identity and Azure Active Directory  ->  https://drive.google.com/file/d/1p5dfgCrQzBF3whNcAzjszxobEmiZTmTr/preview
+    002. Benefits of Azure Active Directory Azure AD  ->  https://drive.google.com/file/d/1SS0NWKBZMUR4b_AXNepaTBZf_dxnENso/preview
+    003. Authenication vs Authorization  ->  https://drive.google.com/file/d/1K18lu7yD294XqYGCVZvUdC9Qt3O9xhaz/preview
+    004. Azure AD Conditional Access  ->  https://drive.google.com/file/d/1l46Eqv5swt8WxHmNJwQCAIkPWjBElsou/preview
+    005. MultiFactor Authentication MFA or 2FA  ->  https://drive.google.com/file/d/1tXJ_lut-r6reIPKHV7BbamhwjbZpeQP9/preview
+    006. Passwordless  ->  https://drive.google.com/file/d/1cKubeEKbFhhWSC4rPt-_AFxcE-ZwotOb/preview
+    007. RoleBased Access Control RBAC  ->  https://drive.google.com/file/d/1XXAXqRMH3SN2tOdI_DBl9ZD3Mg-NFi5M/preview
+    008. ZeroTrust Model of Security  ->  https://drive.google.com/file/d/12owmtEMjgdgpCMOX0gFmnwxkO7KS4GIs/preview
+    009. Defense in Depth  ->  https://drive.google.com/file/d/1-8ZnBf9R4UrEeohdIN0jeSr0y_gyEilK/preview
+    010. Microsoft Defender for Cloud  ->  https://drive.google.com/file/d/1ruft8XrnqFLqsVA3wRLbP-RCIRJVH3cy/preview
+
+10. Cost Management in Azure  [s10.html]
+    001. Factors that Affect Cost  ->  https://drive.google.com/file/d/1swa36l7XxKPYeHfprGb33l5HjU7jGZQ9/preview
+    002. Azure Pricing Calculator  ->  https://drive.google.com/file/d/1HKrtjrMpi8zETa6VFrs9TJiCaCeAlUw0/preview
+    003. Total Cost of Ownership Calculator  ->  https://drive.google.com/file/d/1152aioC3LpmhtA-HCXh0Q4so3T95yoju/preview
+    004. Azure Cost Management  ->  https://drive.google.com/file/d/1RbLcMQT-lhJc1QtiFjtfnltb2iL52Y-2/preview
+    005. Resource Tags  ->  https://drive.google.com/file/d/1FFXapTO6se4hzM2aaHulUNxqYd_w6RGi/preview
+
+11. Azure Governance and Compliance  [s11.html]
+    001. Azure Governance and Compliance  ->  https://drive.google.com/file/d/1sx3Vi60RBEKhcnuZOrh8UJujLutnzUhN/preview
+
+12. Tools for Managing and Deploying Azure Resources  [s12.html]
+    001. Azure Portal and Command Line Tools  ->  https://drive.google.com/file/d/1FIGXBqZrEyhpBxQ2ynNQfq-XeSbW58qR/preview
+    002. LIVE DEMO Create Resources Using Command Line  ->  https://drive.google.com/file/d/1Fa66COG9sbYTiRm3Y5ooSTQwEyasjyee/preview
+    003. Azure Arc  ->  https://drive.google.com/file/d/1DR2bQJHtKdnvpqtIzOHLBQKM8H1KtpLX/preview
+    004. ARM Templates  ->  https://drive.google.com/file/d/1hU7OFYsxmehWzUgEaaMVEgsa-cMnvvu8/preview
+    005. LIVE DEMO Generate ARM Templates in the Azure Portal  ->  https://drive.google.com/file/d/1KhOIgJ8TSK0AbkeJsb7J_iFbr3iJ8svw/preview
+
+13. Monitoring Tools  [s13.html]
+    001. Azure Advisor and Azure Service Health  ->  https://drive.google.com/file/d/1cmWzNlO-l8WUxgoWANTPK2AKfidnQO0M/preview
+    002. Azure Diagnostics Settings  ->  https://drive.google.com/file/d/1Mm2OcM7Fqoby7PPGsZ5dTIsOBYjKj9df/preview
+    003. Azure Monitor  ->  https://drive.google.com/file/d/1p6QtOiJFcchNhX50n0mEI64vOoLgepKz/preview
+
+14. Course Wrapup  [s14.html]
+    001. Thank You  ->  https://drive.google.com/file/d/1t84bxPpTEF29Ov6vYLoPiGi0huJRZ0Zc/preview
